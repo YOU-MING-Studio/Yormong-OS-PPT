@@ -1,7 +1,12 @@
-# Yormong OS - 更新中✅ - 内测中🔧
->Yormong OS 是 一个基于 PPT 内核的虚拟操作系统
+<div align="center">
 
- 
+<h1>Yormong OS - 更新中✅ - 内测中🔧</h1>
+Yormong OS 是 一个基于 PPT 内核的虚拟操作系统<br><br>
+
+[ **我的主页🍀** ](https://you-ming.mysxl.cn/) | [ **转到飞书文档** ](https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-TRSDdKqYtox4hqxdjvTc7Eonn9d)
+
+</div>
+
 ## 1. 关于 Yormong OS 📖
 > 🔧 **Yormong OS** 是由 **YOU MING 工作室** 的用户 **@柚明** 于 *2024.1.24* 基于 **Mindows11** 制作的一个 **PPT 系统**。
 
@@ -19,10 +24,12 @@
 
 > 😝 预计 2024.6 发布公测版...
 
- 
-## 2. 预览 Yormong OS 🔍
+## 2. Yormong OS 版本历史 🕒
+[版本页面]()
+
+## 3. 预览 Yormong OS 🔍
 ### 宣传片▶️
-(https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
+[哔哩哔哩](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
 
  
 ## 3. 下载 Yormong OS 文件 📁
