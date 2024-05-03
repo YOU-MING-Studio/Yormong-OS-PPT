@@ -25,7 +25,7 @@ Yormong OS 是 一个基于 PPT 内核的虚拟操作系统<br><br>
 > 😝 预计 2024.6 发布公测版...
 
 ## 2. Yormong OS 版本历史 🕒
-[版本页面]()
+[版本页面](https://github.com/YOU-MING-Studio/Yormong-OS-PPT/releases)
 
 ## 3. 预览 Yormong OS 🔍
 ### 宣传片▶️
